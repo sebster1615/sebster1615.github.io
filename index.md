@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Summer 2023 DREU Project Site
 ---
 
 * TOC
@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+My name is Sebastian Law and I am a rising senior attending Seattle University majoring in Computer Science. 
 
 ## About My Mentor
 
