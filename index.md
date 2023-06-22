@@ -15,10 +15,14 @@ Email: slaw@seattleu.edu
 ## About My Mentor
 
 Name: Megan Hofmann
+
 School: Northeastern University
+
 Department: Khoury College of Computer Science
+
 Area of Research: Human-Computer Interactions, Personal Health Informatics, Accesibility, and Digital Fabrication
-Websit: https://www.megan-hofmann.com/
+
+Website: https://www.megan-hofmann.com/
 
 ## About My Project
 
