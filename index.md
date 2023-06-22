@@ -12,7 +12,11 @@ My name is Sebastian Law and I am a rising senior attending Seattle University m
 
 ## About My Mentor
 
-Mentor info goes here.
+Name: Megan Hofmann
+School: Northeastern University
+Department: Khoury College of Computer Science
+Area of Research: Human-Computer Interactions, Personal Health Informatics, Accesibility, and Digital Fabrication
+Websit: https://www.megan-hofmann.com/
 
 ## About My Project
 
