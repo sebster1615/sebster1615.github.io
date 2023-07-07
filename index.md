@@ -26,7 +26,7 @@ Website: https://www.megan-hofmann.com/
 
 ## About My Project
 
-Project description goes here.
+The research project I will be working on this summer is called Knit Stimming. I will be researching ways that advanced automatic knitting machines can be used to create products that help with stimming, something that people with Autism and ADHD are commonly affected by. I will be using KnitScript to write code that will create fabrics of different knitting patterns on the knitting machine that will be used in the stimming prototypes that I will create. 
 
 [My Final Report](files/finalreport.pdf)
 
