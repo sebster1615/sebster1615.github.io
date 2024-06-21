@@ -29,7 +29,7 @@ Website: https://www.megan-hofmann.com/
 
 ## About My Project
 
-Project description goes here.
+This summer, I will be continuing and finishing my work on the research project from last summer called Knit Stim which we weren't able to complete due to the knitting machine at MIT that we were using being broken. Now with access to our own knitting machine in the ACT Lab, I will be researching ways that advanced automatic knitting machines can be used to create products that help with stimming, something that people who identify as neurodivergent are commonly affected by. I will be using the updated version of KnitScript to write code that will create fabrics samples of different knitting patterns on the knitting machine that will be used in the stimming device prototypes that I will create. We will then conduct a user study to determine the effectiveness of these prototypes.
 
 [My Final Report](files/finalreport.pdf)
 
